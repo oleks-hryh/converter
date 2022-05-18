@@ -1,3 +1,9 @@
+<html>
+<head>
+<meta name="color-scheme" content="light dark">
+</head>
+<body>
+<pre style="word-wrap: break-word; white-space: pre-wrap;">
 {
 	"distanceDef": {
 		"unit0": "m",
@@ -34,4 +40,6 @@
 	"ydCoef": 0.9144,
 	"kmCoef": 1000
 }
-
+</pre>
+</body>
+</html>
